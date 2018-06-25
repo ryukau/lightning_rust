@@ -1,0 +1,9 @@
+[package]
+name = "lightning"
+version = "0.1.0"
+authors = ["ryukau <ryukau@gmail.com>"]
+
+[dependencies]
+clap = "2"
+png = "0.12.0"
+rand = "0.5"
